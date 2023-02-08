@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Plumento
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 29ce15a30f3c7004dac67477e08f9c5b, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: 19beb62cf28e9d8438cf7d653c94a155, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: b2bae052eef1cfc4db8b858aedb71b6d, type: 3}
+  _pitch: 1.15
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Plumento
+  _backstory: A teacher in a local school. Famous for the commitment to his values.
+    Some rumors say that he is sharing knowledge with lemons, despite latest rules
+    that forbid revealing certain parts of history to them.
+  _crimes: He provoked a fight between one of his students and an apple agent. Then
+    he tried to save his student from an agent in front of his class. Agent didn't
+    survive.
+  _excuses: '"He was trying to kill my student! I had to do something! There was...
+    There was so much juice around... Just like in the war..."'
+  _matchingLaws:
+  - {fileID: 11400000, guid: 6050811e32e7ba14c9c930aada409dd8, type: 2}
+  - {fileID: 11400000, guid: 79d901d3766eb90448cc4a0347f75bbc, type: 2}
+  - {fileID: 11400000, guid: d5698ac153472554aba156695f24ed9d, type: 2}

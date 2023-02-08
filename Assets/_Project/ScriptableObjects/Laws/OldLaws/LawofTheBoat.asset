@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079413c3ebb98c14f8fa0319c7b4ce2b, type: 3}
+  m_Name: LawofTheBoat
+  m_EditorClassIdentifier: 
+  _title: Law of The Boat
+  _law: If a plum rents a boat that can hold 60 chickens, he shall give one sixth
+    of his juice per day as its hire
+  _punishment: {fileID: 11400000, guid: e4fae78d0ff5a05498c127326b164cef, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Cintras
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 19e2f2b2ad9456c4f99f3de55201d891, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: 70e7b7b17294b3f43b3d68a511dae1fa, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: 0e78387dd1fa4dd4eaf1e132d9ad5e29, type: 3}
+  _pitch: 0.9
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Cintras
+  _backstory: A single father of one, who lost his wife during one of the bombings.
+    He works in a construction business as a foreman.
+  _crimes: He argued with a plum in public. All has been recorded with nearby goverment
+    camera.
+  _excuses: '"I am very sorry, but he made my baby cry and I just couldn''t let that
+    slide. I know that I am giving bad example to my child, but I''m very sorry.
+    I know I did the wrong thing."'
+  _matchingLaws:
+  - {fileID: 11400000, guid: 79d901d3766eb90448cc4a0347f75bbc, type: 2}
+  - {fileID: 11400000, guid: 738fd1894dbb50d48973cc7ecb818384, type: 2}
+  - {fileID: 11400000, guid: 4d44a342155b9b04bbcaa36d52709cfb, type: 2}
+  - {fileID: 11400000, guid: e89b1d96f58a70a4295f7b38e39a65ce, type: 2}
+  - {fileID: 11400000, guid: 6050811e32e7ba14c9c930aada409dd8, type: 2}

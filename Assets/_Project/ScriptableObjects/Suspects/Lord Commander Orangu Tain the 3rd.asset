@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Lord Commander Orangu Tain the 3rd
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 825b050034de6ec4bacadd23734b88a5, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: 74daaece3bade174a8c257bb5dbba7ca, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: d0a831eb1d8e62c49a60afa7ad840ce6, type: 3}
+  _pitch: 0.7
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Lord Commander Orangu Tain the 3rd
+  _backstory: An active general that comes from an aristocratic family. He gained
+    36 medals in a battle of the peach bay. However he is rumoured to incarcerate
+    lemon combatants without a trial.
+  _crimes: 'Tax fraud. He didn''t pay taxes for his maid and pocketed the difference.
+    However we couldn''t find the maid in question, so we have no witness. '
+  _excuses: '"I am a very busy fruit. There was never any maid and I pay all my taxes.
+    You were fooled by my political rivals. Do you know I will run for a chancellor
+    in the next election? I am also known for my generosity towards my friends."'
+  _matchingLaws:
+  - {fileID: 11400000, guid: f0540a33ba6457d48ae35aadc431c2e9, type: 2}
+  - {fileID: 11400000, guid: e25a65202fe4c6d49bcf10c373e522af, type: 2}

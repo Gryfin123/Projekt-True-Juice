@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Ed Plummier
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 29ce15a30f3c7004dac67477e08f9c5b, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: 4e1f332e383b25843b355095fec1e622, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: 632d8c1a3edca764786c278c778d115e, type: 3}
+  _pitch: 1.1
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Ed Plummier
+  _backstory: The Eldest son of the government official. He's was accused of 4 different
+    homocides but was never convicted. He also hosts a popular podcast "To juice
+    or not to juice?"
+  _crimes: 'Triple homocide and maiming. The accused broke into the apartment of
+    an apple family and murdered the mother and her two children. He tried to murder
+    the father but managed to only maim him before the police arrived. '
+  _excuses: '"Only triple? I was quite sure I got the fourth one too. Ah... Well...
+    There is always the next time. Don''t worry mate, I will lay low for a week or
+    two. Besides they were watching ''Dirty Juicing''. Who''d watch something like
+    that. Honestly..."'
+  _matchingLaws:
+  - {fileID: 11400000, guid: fc928660a3d6b704fa5a164e1b5e2b16, type: 2}
+  - {fileID: 11400000, guid: 76a7cc56adba0f04a9a827511e56a1ec, type: 2}
+  - {fileID: 11400000, guid: 2a0dab9dba83ef047a1405f505689f2f, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Lemontois
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 19e2f2b2ad9456c4f99f3de55201d891, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: a0cd62bf19dfc4646ab2058923e6b173, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: c3c6a7aa7eb387248af41e9a49b5b4f3, type: 3}
+  _pitch: 1.5
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Lemontois
+  _backstory: Young lemon that is working for a non-profit charity that tries to
+    help fruits affected by the war.
+  _crimes: He asked for a break after fourteen hours of juicing and complained in
+    front of all other young lemons. Every session should take eighteen hours.
+  _excuses: '"We all were tired! We got no juice left! No other fruit is forced to
+    work that long! We''re too young to juice that long, our boss is the real villain
+    here!"'
+  _matchingLaws:
+  - {fileID: 11400000, guid: 738fd1894dbb50d48973cc7ecb818384, type: 2}
+  - {fileID: 11400000, guid: 79d901d3766eb90448cc4a0347f75bbc, type: 2}
+  - {fileID: 11400000, guid: c2a4fa2afc100024e8ff1db90ad0daaa, type: 2}
+  - {fileID: 11400000, guid: 4d44a342155b9b04bbcaa36d52709cfb, type: 2}
+  - {fileID: 11400000, guid: 6050811e32e7ba14c9c930aada409dd8, type: 2}

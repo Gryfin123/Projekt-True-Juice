@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6793cf43ccf4f4db899101ce62673d, type: 3}
+  m_Name: Mon Lemon
+  m_EditorClassIdentifier: 
+  _spriteBody: {fileID: 21300000, guid: 19e2f2b2ad9456c4f99f3de55201d891, type: 3}
+  _spriteEyes: {fileID: 21300000, guid: 4e1f332e383b25843b355095fec1e622, type: 3}
+  _spriteMouth: {fileID: 21300000, guid: b2bae052eef1cfc4db8b858aedb71b6d, type: 3}
+  _pitch: 1.2
+  _deathParticleSystemPrefab: {fileID: 0}
+  _name: Mon Lemon
+  _backstory: An old spice dealer that was alone his whole life. He was accused of
+    two other crimes before but he avoided the Mixer in exchange for working for
+    government.
+  _crimes: He survived a stab wounds that should kill him according to medical science.
+    Five different stab wounds, where each seperate wound should kill him. When faced
+    with these facts, refused to answer any questions because of "amnesia".
+  _excuses: '"I do not understand why I am here. I can''t remember anything."'
+  _matchingLaws:
+  - {fileID: 11400000, guid: 4d44a342155b9b04bbcaa36d52709cfb, type: 2}
+  - {fileID: 11400000, guid: f0540a33ba6457d48ae35aadc431c2e9, type: 2}
+  - {fileID: 11400000, guid: 738fd1894dbb50d48973cc7ecb818384, type: 2}

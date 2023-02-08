@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1702205102d09564daa45dbdb6675b95, type: 3}
+  m_Name: soEyes
+  m_EditorClassIdentifier: 
+  _collection:
+  - {fileID: 21300000, guid: 19beb62cf28e9d8438cf7d653c94a155, type: 3}
+  - {fileID: 21300000, guid: 70e7b7b17294b3f43b3d68a511dae1fa, type: 3}
+  - {fileID: 21300000, guid: 4e1f332e383b25843b355095fec1e622, type: 3}
+  - {fileID: 21300000, guid: 74daaece3bade174a8c257bb5dbba7ca, type: 3}
+  - {fileID: 21300000, guid: 54f5e927995b29d468791806716bf023, type: 3}
+  - {fileID: 21300000, guid: 6e89f48586cb6564fb5cfa3bd7843c32, type: 3}
+  - {fileID: 21300000, guid: a0cd62bf19dfc4646ab2058923e6b173, type: 3}
+  - {fileID: 21300000, guid: d51a372fa4042534cb8f1e9a78582f2f, type: 3}
+  _name: Eyes
